@@ -3,7 +3,7 @@
  * Tema sorteado: SELECAO DE ATIVIDADES (Activity Selection Problem)
  * Comparacao: Estrategia Gulosa  x  Tentativa e Erro (Backtracking)
  *
- * Aluno: Matheus de Sousa Moura
+ * Aluno: Matheus de Sousa Moura / Júlio César de Lima Mendes
  * Professor: Rai Araujo de Miranda
  * UFPI - Campus Senador Helvidio Nunes de Barros (Picos)
  *
@@ -538,7 +538,6 @@ int main(void) {
         fclose(g_csv);
         printf("=============================================================\n");
         printf(" Resultados completos tambem foram salvos em: resultados.csv\n");
-        printf(" Mande para o Claude TODA a saida acima + o conteudo desse CSV.\n");
         printf("=============================================================\n");
     }
 
